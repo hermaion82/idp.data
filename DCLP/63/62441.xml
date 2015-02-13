@@ -65,6 +65,7 @@
             <msDesc>
                <msIdentifier>
                   <idno>
+                     <idno type="invNo">Naples, Biblioteca Nazionale 108454/1009</idno>
                      <idno type="invNo" xml:id="FR346">P.Herc. 1021 col. M</idno>
                      <idno type="invNo" xml:id="FR347">P.Herc. 1021 col. N</idno>
                      <idno type="invNo" xml:id="FR348">P.Herc. 1021 col. O</idno>
@@ -2805,8 +2806,9 @@
          </div>
          <div type="bibliography" subtype="illustrations">
             <p>
-               <bibl type="illustration">G. Cavallo, Libri scritture scribi a Ercolano, Naples 1983, pl. 34a</bibl>
-               <bibl type="illustration">Gaiser, Philodems Academica, p. 43-53</bibl>
+               <bibl type="illustration">G. Cavallo, Libri scritture scribi a Ercolano, Naples 1983, pl. 20</bibl>
+               <bibl type="illustration">Pap. Flor. 36 (2005), pl. 30</bibl>
+               <bibl type="illustration">Gaiser, Philodems Academica, p. 146-284 passim</bibl>
             </p>
          </div>
          

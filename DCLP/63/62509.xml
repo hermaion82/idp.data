@@ -13,9 +13,6 @@
          </publicationStmt>
          <sourceDesc>
             <msDesc>
-               <msIdentifier>
-                  <idno type="invNo">Naples, Biblioteca Nazionale 108454/1009</idno>
-               </msIdentifier>
                <physDesc>
                   <objectDesc form="roll">
                      <p type="bookForm">papyrus roll (columns: 2)</p>
@@ -612,9 +609,8 @@
          </div>
          <div type="bibliography" subtype="illustrations">
             <p>
-               <bibl type="illustration">G. Cavallo, Libri scritture scribi a Ercolano, Naples 1983, pl. 20</bibl>
-               <bibl type="illustration">Pap. Flor. 36 (2005), pl. 30</bibl>
-               <bibl type="illustration">Gaiser, Philodems Academica, p. 146-284 passim</bibl>
+               <bibl type="illustration">G. Cavallo, Libri scritture scribi a Ercolano, Naples 1983, pl. 34a</bibl>
+               <bibl type="illustration">Gaiser, Philodems Academica, p. 43-53</bibl>
             </p>
          </div>
          <div type="figure">
