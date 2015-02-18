@@ -13,6 +13,9 @@
          </publicationStmt>
          <sourceDesc>
             <msDesc>
+               <msIdentifier>
+                  <idno type="invNo">Naples, Biblioteca Nazionale 107602/161</idno>
+               </msIdentifier>
                <physDesc>
                   <objectDesc form="roll">
                      <p type="bookForm">papyrus roll (columns: 2)</p>
